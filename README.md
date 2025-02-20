@@ -2,7 +2,7 @@
 This python code is created to download the [NASA Earth Exchange Global Daily Downscaled Projections (NEX-GDDP-CMIP6)](https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp-cmip6), based on the [Tech Note](https://www.nccs.nasa.gov/sites/default/files/NEX-GDDP-CMIP6-Tech_Note_4.pdf). 
 This script considers all versions of data that have been issued. Customers can download any version for specific needs.
 
-## 1️⃣ Prerequisites
+## :page_with_curl: Prerequisites
 
 - **Python 3.x**
 - **`curl`** command-line tool (used for downloading files)
